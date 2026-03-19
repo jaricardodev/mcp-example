@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/McpExample.API/McpExample.API.csproj" />
+    <Project Path="src/McpExample.Application/McpExample.Application.csproj" />
+    <Project Path="src/McpExample.Domain/McpExample.Domain.csproj" />
+    <Project Path="src/McpExample.Infrastructure/McpExample.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/McpExample.Application.Tests/McpExample.Application.Tests.csproj" />
+  </Folder>
+</Solution>
